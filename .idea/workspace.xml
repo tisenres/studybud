@@ -1,12 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="219c84e0-0baa-4845-92b2-d47467f6a315" name="Changes" comment="" />
+    <list default="true" id="219c84e0-0baa-4845-92b2-d47467f6a315" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/templates/base/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/templates/base/room.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybud/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/studybud/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studybud/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/studybud/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tisenres"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tisenres/studybud.git",
+    "accountId": "c02c63f4-61ae-42f1-b338-6c560fafc197"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -18,11 +52,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.127.0.0.1:8000.executor": "Debug",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base/templates/base" />
+    </key>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.127.0.0.1:8000">
     <configuration name="127.0.0.1:8000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8000/">
       <method v="2" />
@@ -73,8 +121,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715783210663</updated>
-      <workItem from="1715783212002" duration="44000" />
+      <workItem from="1715783212002" duration="4369000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715783532885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715783532885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
