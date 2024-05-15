@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="219c84e0-0baa-4845-92b2-d47467f6a315" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/templates/base/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/templates/base/room.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+    <list default="true" id="219c84e0-0baa-4845-92b2-d47467f6a315" name="Changes" comment="Templates">
+      <change afterPath="$PROJECT_DIR$/base/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/migrations/0002_topics_room_host_message_room_topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/migrations/0003_rename_topics_topic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studybud/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/studybud/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studybud/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/studybud/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715783210663</updated>
-      <workItem from="1715783212002" duration="4369000" />
+      <workItem from="1715783212002" duration="8485000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -131,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715783532885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Templates">
+      <option name="closed" value="true" />
+      <created>1715790271203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715790271203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Templates" />
   </component>
 </project>
